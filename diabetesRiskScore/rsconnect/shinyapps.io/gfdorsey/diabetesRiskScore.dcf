@@ -1,0 +1,8 @@
+name: diabetesRiskScore
+account: gfdorsey
+server: shinyapps.io
+bundleId: 226542
+url: https://gfdorsey.shinyapps.io/diabetesRiskScore
+when: 1437943942.61992
+asMultiple: FALSE
+asStatic: FALSE
